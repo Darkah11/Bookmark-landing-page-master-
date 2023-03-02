@@ -631,7 +631,7 @@ form input {
     .hero-text-btns {
         justify-content: left;
     }
-    .features {
+    #features {
         margin: 0;
     }
     .tab-links {
@@ -697,8 +697,8 @@ form input {
     .extension-card.opera-card {
         margin-bottom: -100px;
     }
-    .faq {
-        margin-top: 200px;
+    #faq {
+        margin-top: 100px;
     }
 }
 
@@ -720,7 +720,7 @@ form input {
     .hero-illustration::before {
         right: -50px;
     }
-    .features {
+    #features {
         padding: 0px 150px;
     }
     .tab-illustration::after {
@@ -729,11 +729,11 @@ form input {
     .extension-card-container {
         grid-template-columns: 1fr 1fr 1fr;
     }
-    .extension {
+    #extension {
         padding: 70px 150px;
     }
     
-    .faq {
+    #faq {
         padding: 0 150px;
     }
     .footer {
